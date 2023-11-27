@@ -1,0 +1,14 @@
+{
+  "name": "your-app",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.16.3"
+  },
+  "dependencies": {
+    "@architect/functions": "^7.0.0"
+  }
+}
